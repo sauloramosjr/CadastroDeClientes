@@ -18,7 +18,7 @@ namespace ProjetoCadastroDeClientes.Migrations
                     Cnpj = table.Column<string>(type: "character varying(14)", maxLength: 14, nullable: false),
                     DataCadastro = table.Column<DateTime>(type: "timestamp without time zone", nullable: false),
                     Endereco = table.Column<string>(type: "character varying(255)", maxLength: 255, nullable: false),
-                    Telefone = table.Column<string>(type: "character varying(14)", maxLength: 14, nullable: false)
+                    Telefone = table.Column<string>(type: "character varying(255)", maxLength: 255, nullable: false)
                 },
                 constraints: table =>
                 {
