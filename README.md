@@ -21,6 +21,9 @@ git clone https://github.com/sauloramosjr/CadastroDeClientes
  Update-Database
  ```
  para aplicar as migrations ao banco de dados.
+ 
+ - Caso queira, o sql deste projeto está no arquivo "Clientes.sql" localizado na raiz do projeto.
+ 
 ## Tecnologias Utilizadas
 
 - C#
