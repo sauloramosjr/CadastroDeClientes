@@ -2,7 +2,7 @@
 # Projeto Cadastro De Clientes
 
 ## Objetivo
-Este projeto foi desenvolvido para a empresa Useall com o objetivo de fornecer uma solução simples de cadastro de clientes.
+Este projeto foi desenvolvido com o objetivo de fornecer uma solução simples de cadastro de clientes.
 
 
 
